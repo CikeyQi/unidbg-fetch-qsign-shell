@@ -4,7 +4,7 @@
 
 # unidbg-fetch-qsign-shell
 
-使用[unidbg-fetch-qsign 1.1.9](https://github.com/fuqiuluo/unidbg-fetch-qsign/releases/tag/1.1.9)，自动与官方管理脚本，自动下载安装JDK环境，一键式部署
+使用[unidbg-fetch-qsign 1.1.9](https://github.com/fuqiuluo/unidbg-fetch-qsign/releases/tag/1.1.9)，使用官方管理脚本，自动下载安装JDK环境，一键式部署
 
 仅适用于部分Linux主流版本，Windows平台请移步[unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui)<br>
 
