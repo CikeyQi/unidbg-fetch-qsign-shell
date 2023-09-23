@@ -15,7 +15,7 @@
 在Linux终端中输入
 
 ``` shell
-bash <(curl -L https://sourl.cn/V9uNcm)
+bash <(curl -L https://sourl.cn/7PDjLh)
 ```
 
 按照提示操作即可
