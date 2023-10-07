@@ -28,7 +28,7 @@ bash <(curl -L https://sourl.cn/y997nz)
 
 - 在底部添加：`sign_api_addr: http://127.0.0.1:8080/sign?key=114514`(icqq建议升级到0.5.1版本以上才能自动匹配版本）
 
-- 在config中找到bot.yaml更改协议为1或2（安卓手机或apad）
+- 在config中找到qq.yaml更改协议为1或2（安卓手机或apad）
 
 - 启动成功
 
