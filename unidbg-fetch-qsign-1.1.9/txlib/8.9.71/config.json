@@ -12,9 +12,9 @@
     "code": "4332"
   },
   "unidbg": {
-    "dynarmic": false,
+    "dynarmic": true,
     "unicorn": true,
-    "debug": true
+    "debug": false
   },
   "black_list": [
     1008611

@@ -1,0 +1,22 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8080
+  },
+  "key": "114514",
+  "auto_register": true,
+  "protocol": {
+    "package_name": "com.tencent.mobileqq",
+    "qua": "V1_AND_SQ_8.9.70_4330_YYB_D",
+    "version": "8.9.70",
+    "code": "4330"
+  },
+  "unidbg": {
+    "dynarmic": true,
+    "unicorn": true,
+    "debug": false
+  },
+  "black_list": [
+    1008611
+  ]
+}

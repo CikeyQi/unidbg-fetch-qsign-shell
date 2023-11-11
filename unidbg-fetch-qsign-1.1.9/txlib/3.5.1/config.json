@@ -12,8 +12,8 @@
     "code": "1298"
   },
   "unidbg": {
-    "dynarmic": false,
+    "dynarmic": true,
     "unicorn": true,
-    "debug": true
+    "debug": false
   }
 }

@@ -12,8 +12,8 @@
     "code": "1308"
   },
   "unidbg": {
-    "dynarmic": false,
+    "dynarmic": true,
     "unicorn": true,
-    "debug": true
+    "debug": false
   }
 }
