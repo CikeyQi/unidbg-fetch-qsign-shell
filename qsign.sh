@@ -289,7 +289,7 @@ else
 
     # 下载相应线路的脚本
     if [ "$option" == "国内线路" ]; then
-        download_url="https://ghproxy.com/$QSIGN_SCRIPT_URL"
+        download_url="https://mirror.ghproxy.com/$QSIGN_SCRIPT_URL"
     else
         download_url="$QSIGN_SCRIPT_URL"
     fi
