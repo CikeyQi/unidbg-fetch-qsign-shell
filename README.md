@@ -15,7 +15,7 @@
 Linuxのターミナルで次のコマンドを入力します。
 
 ``` shell
-bash <(curl -L https://sourl.cn/k78ea7)
+bash <(curl -L https://sourl.cn/UT4an4)
 ```
 
 指示に従って操作を行ってください。
