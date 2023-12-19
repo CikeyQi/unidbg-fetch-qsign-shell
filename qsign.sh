@@ -304,6 +304,8 @@ else
     chmod +x "qsign_operations.sh"
 
     print_message "下载 qsign_operations 脚本成功，5 秒钟后启动..." "$GREEN"
+    
+    print_message "请选择 0 开始配置Qsign服务，若配置错误或需要修改请重新运行脚本并选择 启动qsign_operations.sh " "$YELLOW"
 
     sleep 5
 
