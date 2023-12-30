@@ -210,7 +210,8 @@ else
 
     print_message "=========================" "$GREEN"
     print_message "容器名称: $container_name" "$GREEN"
-    print_message "TXLIB_VERSION: $txlib_version" "$GREEN"
+    print_message "协议版本: $txlib_version" "$GREEN"
+    print_message "端口号: $port" "$GREEN"
     print_message "=========================" "$GREEN"
 
    # 等待用户确认
@@ -236,8 +237,8 @@ else
     print_message "=========================" "$GREEN"
     print_message "签名服务已启动" "$GREEN"
     print_message "签名版本: $txlib_version" "$GREEN"
-    print_message "公网地址: $ip:$port" "$GREEN"
-    print_message "内网地址: $ip2:$port" "$GREEN"
+    print_message "公网地址: "http://$ip:$port"" "$GREEN"
+    print_message "内网地址: "http://$ip2:$port"" "$GREEN"
     print_message "=========================" "$GREEN"
 
     print_message "unidbg-fetch-qsign-docker 安装完成" "$GREEN"
