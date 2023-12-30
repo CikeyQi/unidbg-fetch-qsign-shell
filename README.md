@@ -1,39 +1,28 @@
-<div align="center">
-<img alt="yuhuo" src="https://github.com/CikeyQi/unidbg-fetch-qsign-gui/blob/main/readme/logo.png"/>
 
+![Cover](https://github.com/CikeyQi/unidbg-fetch-qsign-shell/assets/61369914/d6f08c4e-0788-41f8-8b70-32ed490cb56b)
 
 # unidbg-fetch-qsign-shell
 
-[1.1.9](https://github.com/fuqiuluo/unidbg-fetch-qsign/releases/tag/1.1.9)を使用し、公式の管理スクリプトを使用して、JDK環境の自動ダウンロードとインストール、ワンクリックでのデプロイを行います。
+使用 [unidbg-fetch-qsign 1.1.9](https://github.com/fuqiuluo/unidbg-fetch-qsign/releases/tag/1.1.9) ，适合各大主流Linux版本，提供两种部署方案，最大程度兼容
 
-一部のLinuxの主要バージョンにのみ対応しており、Windowsプラットフォームの場合は[unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui)に移動してください。<br>
+Windows平台请移步 [unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui) <br>
 
 </div>
 
-## 起動方法
+## 如何启动
 
-Linuxのターミナルで次のコマンドを入力します。
+- 将以下命令复制粘贴到 Linux 控制台中点击回车，按照提示操作即可
 
 ``` shell
 bash <(curl -L https://sourl.cn/UT4an4)
 ```
 
-指示に従って操作を行ってください。
-
-## 設定方法
-
-### Miao-Yunzaiに設定する方法
-
-- configフォルダ内のbot.yamlファイルを見つけます。
-
-- 末尾に次の設定を追加します：sign_api_addr: http://127.0.0.1:8080/sign?key=114514（icqqは0.5.1以上のバージョンを推奨しています）
-
-- configフォルダ内のqq.yamlを見つけて、プロトコルを1または2に変更します（Androidの場合は1、apadの場合は2）。
-
-- 起動に成功します。
-
-- もしこのプロジェクトが役に立った場合は、無料のスターをください。ありがとうございます。
+- 使用期间遇到问题可以加群与我们反馈：**551081559**
 
 ## 致谢
 
-- unidbg-fetch-qsignプロジェクト：[unidbg-fetch-qsign](https://github.com/fuqiuluo/unidbg-fetch-qsign)
+- unidbg-fetch-qsign项目：[unidbg-fetch-qsign](https://github.com/fuqiuluo/unidbg-fetch-qsign)
+
+## 免责声明
+
+- 本仓库代码仅供学习参考，用于便捷性启动，如有侵权，请联系删除
