@@ -145,6 +145,11 @@ bash <(curl -L https://sourl.cn/UT4an4)
 
 - 使用期间遇到问题可以加群与我们反馈：**551081559**
 
+## 搭建好不会用？
+
+- 用都不会用，杂鱼\~❤杂鱼\~\~❤要喂饭到嘴边吗？真拿你没办法呢~❤
+- [点我打开喂饭教程](https://github.com/CikeyQi/unidbg-fetch-qsign-shell/issues/11)
+
 ## 致谢
 
 - unidbg-fetch-qsign项目：[unidbg-fetch-qsign](https://github.com/fuqiuluo/unidbg-fetch-qsign)
