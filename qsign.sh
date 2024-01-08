@@ -129,6 +129,12 @@ if [ "$choice_manage" == "1" ]; then
             exit 1
         fi
 
+        # 如果没有设置 JAVA_HOME，则获取 JAVA_HOME
+        if [ -z "$JAVA_HOME" ]; then
+            export JAVA_HOME=$(which java)
+            print_message "未设置 JAVA_HOME 环境变量，设置 JAVA_HOME 为 $JAVA_HOME" "$YELLOW"
+        fi
+
         # 给予脚本执行权限
         chmod +x "qsign_operations.sh"
 
