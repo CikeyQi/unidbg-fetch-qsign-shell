@@ -1,3 +1,4 @@
+## 使用前须知：本仓库只更新版本文件，至于unidbg-fetch-qsign本体已经停止更新，新的版本文件有概率被检测导致封号，请谨慎使用，如果可以请尽量使用旧的版本
 
 ![Cover](https://github.com/CikeyQi/unidbg-fetch-qsign-shell/assets/61369914/d6f08c4e-0788-41f8-8b70-32ed490cb56b)
 
